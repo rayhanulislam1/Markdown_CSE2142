@@ -5,7 +5,7 @@
         mukul
         
 # Table with alignment
-You can align text in the columns to the left, right, or center by adding a colon (:) to the left,
+You can align text in the columns to the left, right, or center by adding a colon (:) to the left,                              
 right, or on both side of the hyphens within the header row.
 
 | Syntax    | Description  | Test Text   |
@@ -14,10 +14,10 @@ right, or on both side of the hyphens within the header row.
 | Paragraph |    Text      | And more    |
 
 # Instructions
-6.S191 software labs are designed to be completed at your own pace. At the end of each
-of the labs, there will be instructions on how you can submit your notebook for grade.
-Additionally, if you would like to submit your lab as part of the 6.S191 lab competitions,
-instructions regarding what information must be submitted is also provided at the end of
+6.S191 software labs are designed to be completed at your own pace. At the end of each                          
+of the labs, there will be instructions on how you can submit your notebook for grade.                                  
+Additionally, if you would like to submit your lab as part of the 6.S191 lab competitions,                              
+instructions regarding what information must be submitted is also provided at the end of                                
 each lab.
 
 ## License
