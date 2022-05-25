@@ -28,4 +28,3 @@ Licensed under the MIT License. You may not use this file except in compliance w
 > © MIT 6.S191: Introduction to Deep Learning
 >
 > http://introtodeeplearning.com
-
