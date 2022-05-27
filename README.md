@@ -8,10 +8,10 @@ $$
 \end{align}
 $$
 <p align="center">$f_{1}(&omega;)=\frac{&sigma;^2}{2&pi;},&omega;&epsilon;[-&pi;,&pi;]$</p>     
-1. First item a. first sub-item A) first sub-sub-item b. second sub-item
-2. Second item
-3. Third item a. second sub item
-4. Fourth Item  
+1. First item a. first sub-item A) first sub-sub-item b. second sub-item  
+2. Second item  
+3. Third item a. second sub item  
+4. Fourth Item    
 - First Item
 - Second Item
    - first sub-item
