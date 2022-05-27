@@ -1,9 +1,14 @@
 # Assignment 0: Markdown
 ## You have to write markdown
 ### Some Math Equation
-
-        First equation: Y : 
- 1. First item a. first sub-item A) first sub-sub-item b. second sub-item
+$$
+\text{First equation: Y=X$ \beta+ \epsilon_y \forall X$} \\
+\text{Second equation: X=Z$ \gamma + \epsilon_x $} \\
+$$
+$$\begin{align}
+\ f_1(\omega)&=\frac{\sigma^2}{2\pi},\omega \epsilon [-\pi,\pi]
+\end{align} $$  
+1. First item a. first sub-item A) first sub-sub-item b. second sub-item
 2. Second item
 3. Third item a. second sub item
 4. Fourth Item  
