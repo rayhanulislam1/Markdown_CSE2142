@@ -2,12 +2,12 @@
 ## You have to write markdown
 ### Some Math Equation
 $$
-\text{First equation: Y=X$ \beta+ \epsilon_y \forall X$} \\
-\text{Second equation: X=Z$ \gamma + \epsilon_x $} \\
+\begin{align}
+\text{First equation: Y=X$ \beta+ \epsilon_y \forall X$}\\
+\text{Second equation: X=Z$ \gamma + \epsilon_x $}
+\end{align}
 $$
-$$\begin{align}
-\ f_1(\omega)&=\frac{\sigma^2}{2\pi},\omega \epsilon [-\pi,\pi]
-\end{align} $$  
+<p align="center">$f_{1}(&omega;)=\frac{&sigma;^2}{2&pi;},&omega;&epsilon;[-&pi;,&pi;]$</p>     
 1. First item a. first sub-item A) first sub-sub-item b. second sub-item
 2. Second item
 3. Third item a. second sub item
