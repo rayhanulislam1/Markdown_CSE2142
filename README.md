@@ -3,7 +3,7 @@
 ### Some Math Equation
 $$
 \begin{align}
-\text{First equation: Y=X$ \beta+ \epsilon_y \forall X$}\\
+\text{First equation: Y=X$ \beta+ \epsilon_y, \forall X$}\\
 \text{Second equation: X=Z$ \gamma + \epsilon_x $}
 \end{align}
 $$
@@ -43,7 +43,7 @@ Additionally, if you would like to submit your lab as part of the 6.S191 lab com
 instructions regarding what information must be submitted is also provided at the end of  
 each lab.  
 
-## License
+# License
 All code in this repository is copyright 2022 [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com). All  
 Rights Reserved.  
 
