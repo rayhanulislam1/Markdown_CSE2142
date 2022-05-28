@@ -22,10 +22,10 @@ $$
 
 
 ![alt text](https://camo.githubusercontent.com/e6947af48fb1f3bb4f8238ee96f307dc6ddc9c9640c373484badd0cd42a3a25d/68747470733a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f69636f6e6b612f6d656f772f3235362f6361742d636167652d69636f6e2e706e67)  
-```library(tidyverse)  
+library(tidyverse)  
 library(mdsr)  
 SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() +  
-geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")```
+geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")
 
 # Table with alignment
 You can align text in the columns to the left, right, or center by adding a colon (:) to the left,  
