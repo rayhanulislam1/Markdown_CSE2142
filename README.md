@@ -3,8 +3,8 @@
 ### Some Math Equation
 $$
 \begin{align}
-\text{First equation: Y=X$ \beta+ \epsilon_y, \forall X$}\\
-\text{Second equation: X=Z$ \gamma + \epsilon_x $}
+\\text{First equation: } &Y=X\beta+ \epsilon_y, \forall X
+\\\ \text{Second equation: } &X=Z\gamma + \epsilon_x
 \end{align}
 $$
 <p align="center">$f_{1}(&omega;)=\frac{&sigma;^2}{2&pi;},&omega;&epsilon;[-&pi;,&pi;]$</p>
